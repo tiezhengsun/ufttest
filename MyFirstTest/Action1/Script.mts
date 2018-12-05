@@ -1,4 +1,3 @@
-﻿Browser("Advantage Shopping").WinObject("ReBarWindow32").Check CheckPoint("ReBarWindow32") @@ hightlight id_;_131588_;_script infofile_;_ZIP::ssf1.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg").Check CheckPoint("speakersImg") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg")_;_script infofile_;_ZIP::ssf2.xml_;_
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg").Check CheckPoint("speakersImg") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg")_;_script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsImg").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsImg")_;_script infofile_;_ZIP::ssf3.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("buy_now").Check CheckPoint("buy_now") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("buy now")_;_script infofile_;_ZIP::ssf4.xml_;_
